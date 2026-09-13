@@ -8,7 +8,7 @@ The dataset has 1,000 rows and 17 columns covering retail store transaction reco
 
 ## Technologies Used
 * **Languages & Libraries**: Python, Pandas, NumPy, Matplotlib & Seaborn
-* **Environment**: Google Colab / Jupyter Notebook
+* **Environment**: Google Colab Notebook
 
 ## Analysis Performed
 1. **Data Cleaning Process**
@@ -42,7 +42,7 @@ The dataset has 1,000 rows and 17 columns covering retail store transaction reco
 
 ## Step-by-Step Guide to Run the Project
 
-1. **Download the Dataset**: Locate the `supermarket_sales.csv` file in this repository. Click on the file and click **Download** to save a copy of it to your local computer.
-2. **Open the Notebook in Google Colab**: Go to Google Colab. Click on **File > Upload notebook**. Choose or drag-and-drop the `notebook.ipynb` file from this repository.
-3. **Upload the Dataset to Colab**: Once the notebook is open in Google Colab, look at the left-hand sidebar and click on the **Folder (Files)** icon. Click the **Upload** button (an icon of a file with an upward arrow) and upload your downloaded `supermarket_sales.csv` file into the `/content/` directory so the pandas file-reading path works properly.
-4. **Run the Analysis**: Click on **Runtime** in the top menu bar. Select **Run all** to execute all data cleaning, statistical analysis, and visualization cells sequentially from top to bottom.
+1. **Download the Dataset**: Locate the `supermarket_sales.csv` file in this repository. Click on the file and click Download to save a copy of it to your local computer.
+2. **Open the Notebook in Google Colab**: Go to Google Colab. Click on File > Upload notebook. Choose or drag-and-drop the `code.ipynb` file from this repository.
+3. **Upload the Dataset to Colab**: Once the notebook is open in Google Colab, look at the left-hand sidebar and click on the Folder (Files) icon. Click the Upload button (an icon of a file with an upward arrow) and upload your downloaded `supermarket_sales.csv` file into the `/content/` directory so the pandas file-reading path works properly.
+4. **Run the Analysis**: Click on Runtime in the top menu bar. Select Run all to execute all data cleaning, statistical analysis, and visualization cells sequentially from top to bottom.
